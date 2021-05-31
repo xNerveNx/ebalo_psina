@@ -19,4 +19,4 @@ async def ebalo_psina(ctx):
 		
 		
 		
-client.run("ODQ4ODYyNDA2NjYxODk4MjUw.YLSyuA.sDaTwB9CQ7u-HA74ZpC8WJtwi-Y")
+client.run("ODQ4ODYyNDA2NjYxODk4MjUw.YLSyuA.NubogtfnVM14z2RH6vgSFIdQY2A")
